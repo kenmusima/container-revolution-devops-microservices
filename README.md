@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/noahgift/container-revolution-devops-microservices.svg?style=svg)](https://circleci.com/gh/noahgift/container-revolution-devops-microservices)
+[![CircleCI](https://circleci.com/gh/kenmusima/container-revolution-devops-microservices.svg?style=svg)](https://circleci.com/gh/kenmusima/container-revolution-devops-microservices)
 
 # Container Revolution
 
